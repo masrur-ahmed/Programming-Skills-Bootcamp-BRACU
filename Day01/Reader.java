@@ -119,4 +119,7 @@ class Reader
             return;
         din.close();
     }
+    public static void main(string [] args){
+        System.out.println("hi");
+    }
 }
